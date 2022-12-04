@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const input = fs.readFileSync('input.txt', 'utf-8').split('\n');
+const input = fs.readFileSync('2/input.txt', 'utf-8').split('\n');
 
 const rpsCheck = (input) => {
   let total = 0;

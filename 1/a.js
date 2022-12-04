@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const input = fs.readFileSync('input.txt', 'utf-8').split('\n');
+const input = fs.readFileSync('1/input.txt', 'utf-8').split('\n');
 
 const checkHighest = (input) => {
   let current = 0;
