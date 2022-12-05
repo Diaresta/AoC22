@@ -14,9 +14,7 @@ const cleanup = (input) => {
       .split('-')
       .map((num) => parseInt(num));
 
-    if (firstStart >= secondStart && firstEnd <= secondEnd) {
-      output++;
-    } else if (firstStart <= secondStart && firstEnd >= secondEnd) {
+    if (firstStart <= secondEnd && secondStart <= firstEnd) {
       output++;
     }
   }
