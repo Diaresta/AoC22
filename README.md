@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2022 🎄
 
-Day 1: A✔️, B\
+Day 1: A✔️, B✔️\
 Day 2: A✔️, B✔️\
 Day 3: A✔️, B✔️\
 Day 4: A✔️, B✔️\
