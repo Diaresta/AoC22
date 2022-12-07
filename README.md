@@ -5,7 +5,7 @@ Day 2: A✔️, B✔️\
 Day 3: A✔️, B✔️\
 Day 4: A✔️, B✔️\
 Day 5: A, B\
-Day 6: A, B\
+Day 6: A✔️, B✔️\
 Day 7: A, B\
 Day 8: A, B\
 Day 9: A, B\
